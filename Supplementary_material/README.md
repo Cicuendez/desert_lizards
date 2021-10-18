@@ -1,1 +1,1 @@
-This folder harbors the supplementary figures, tables, and appendix of the paper.
+This folder harbors the supplementary figures and tables of the paper.
